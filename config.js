@@ -1,13 +1,13 @@
 module.exports = {
   ownerUsernames: ["MOHAMMADRANA"],//Your Username
   ownerNumber: "+8801752865115",//Your Number
-  admin: ["5920596290"], // your id
+  admin: ["5847031273"], // your id
   prefix: "/", // dont change prefix 
   telegramBotToken: "7694517563:AAFDMisvd2ZsUnJ9PJwOtHqFaLXLbCXr2F4",//Your Bot Tokens
   imageUrl: "https://i.postimg.cc/WpmJhNVg/received-383729254132460.jpg",//Thumbnail Url
   port: process.env.PORT || 8053 || 8053, // port
   mess: {
-    ownerlink: "https://t.me/ar.rana007",
+    ownerlink: "https://t.me/ar_rana07",
     eror: "Internal Server Eror 😵",
     owner: "Sorry, this command can only be accessed by the owner!",
     group: "Sorry, this command can only be used within a group!",
