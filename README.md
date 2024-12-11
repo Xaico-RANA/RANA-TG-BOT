@@ -15,8 +15,8 @@
 
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
+name : ```Rana Developer```</br>
+age : ```18+```</br>
 link : [facebook](https://www.facebook.com/rana.is.busy.okay).</br>
 channel: [TEAM_X4X_CHAT](https://t.me/TEAM_X4X_CHAT) <br>
 tutorial: [youtube](https://youtu.be/aqYP28Mog6U)
