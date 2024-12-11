@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { alldown } = require('nayan-video-downloader');
+const { alldown } = require('rana-video-downloader');
 
 module.exports = {
   config: {
@@ -41,7 +41,7 @@ module.exports = {
       const replyMarkup = {
         reply_markup: {
           inline_keyboard: [
-            [{ text: '🔗 Bot Owner', url: 'https://t.me/MOHAMMADNAYAN' }],
+            [{ text: '🔗 Bot Owner', url: 'https://t.me/ar_rana07' }],
           ],
         },
       };
