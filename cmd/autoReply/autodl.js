@@ -1,6 +1,6 @@
 const axios = require('axios')
 const path = require('path');
-const { alldown } = require("nayan-video-downloader");
+const { alldown } = require("rana-video-downloader");
 
 module.exports = {
   event: 'message',
@@ -30,7 +30,7 @@ module.exports = {
 
         const replyMarkup = {
           inline_keyboard: [
-            [{ text: 'Bot Owner', url: 'https://t.me/MOHAMMADNAYAN' }],
+            [{ text: 'Bot Owner', url: 'https://t.me/ar_rana07' }],
             [{ text: 'Download', url: high }],
           ],
         };
