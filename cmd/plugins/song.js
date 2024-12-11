@@ -1,6 +1,6 @@
 const axios = require('axios');
 const Youtube = require('youtube-search-api');
-const { ytdown } = require('nayan-video-downloader');
+const { ytdown } = require('rana-video-downloader');
 
 module.exports = {
   config: {
@@ -56,7 +56,7 @@ const processSong = async (chatId, name, api, replyToMessageId) => {
     const replyMarkup = {
       reply_markup: {
         inline_keyboard: [
-          [{ text: 'Bot Owner', url: 'https://t.me/MOHAMMADNAYAN' }],
+          [{ text: 'Bot Owner', url: 'https://t.me/ar_rana07' }],
         ],
       },
     };
