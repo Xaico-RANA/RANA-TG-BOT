@@ -1,10 +1,11 @@
 <h3 align="center">
   
-  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -NAYAN TELEGRAM BOT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -RANA TG BOT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
   
 </h3>
-
-![Bot Preview](https://i.postimg.cc/9XDfjVR3/20241203-103021.gif)
+ 
+![Bot Preview](https://i.imgur.com/gZh1sjU.gif)
+ 
 
 ---
 <img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/NAYAN-TELEGRAM-BOT?label=github&style=flat-square"></img>
